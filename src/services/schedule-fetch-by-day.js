@@ -5,12 +5,15 @@ export async function scheduleFetchByDay({ date }) {
   try {
     // Fazendo a requisição
     const response = await fetch(`${apiConfig.baseURL}/schedules`);
-    //Converte para JSON
+
+    //  Converte para JSON
     const data = await response.json();
-    //FIltra os agendamentos pelo dia selecionado
+
+    // Filtra os agendamento pelo dia selecionado
     const dailySchedules = data.filter((schedule) =>
       dayjs(date).isSame(schedule.when, "day")
     );
+
     return dailySchedules;
   } catch (error) {
     console.log(error);
