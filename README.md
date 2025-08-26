@@ -3,7 +3,7 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
   
 </p>
 
@@ -44,7 +44,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O HairSistem é um sistema de agendamento de corte de cabelos para barbearias, salões de cabelos e cabeleireiros.
 
-- [Acesse o projeto finalizado, online](https://hairsistem.vercel.app/)
+- [Acesse o projeto finalizado, online](https://hairsistem-rossi.vercel.app/)
 
 - [Assistir aulas](https://app.rocketseat.com.br/classroom/projeto-hair-day-2)
 
