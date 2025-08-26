@@ -29,7 +29,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JSON Server: Para simular uma API RESTful.
 - Day.js: Para manipulação de datas.
 - Figma : Para construção do layout do projeto.
-
+- Render: Para build e deploy do backend.
+- Vercel: Para build e deploy do frontend.
 
 # **✨ Como executar**
 
